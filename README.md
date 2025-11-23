@@ -1,5 +1,6 @@
-📘 Quantitative Research Methods (QRM) | Ashoka University
+📘 Quantitative Research Methods (QRM) | Ashoka University 
 Taught by Prof. Anustubh Agnihotri (PhD, UC Berkeley)
+
 Teaching Fellow: Suchir Kalra
 
 
