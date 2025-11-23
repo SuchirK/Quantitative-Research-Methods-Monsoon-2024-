@@ -17,3 +17,4 @@ Teaching under the supervision of Prof. Anustubh Agnihotri (PhD, UC Berkeley).
 
 For related work and projects, please visit: https://suchirk.github.io/suchirkalra.github.io/
 
+Note: The course files for now, can be found in the DS_QRM_Monsoon2024.zip folder. 
